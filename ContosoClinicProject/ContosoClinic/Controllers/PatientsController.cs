@@ -20,6 +20,17 @@ namespace ContosoClinic.Controllers
             return View(db.Patients.ToList());
         }
 
+        // POST: Patients/Create
+        // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
+        // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
+        [HttpPost]
+        //[ValidateAntiForgeryToken] REMOVED so it is easy to replay SQLi attacks
+        public ActionResult Index(string search)
+        {
+            // IMPORTANT: This code is vulnerable to SQL injection attacks by design.
+            return View(db.Patients.SqlQuery("SELECT * FROM dbo.Patients WHERE [FirstName] LIKE '%" + search + "%' OR [LastName] LIKE '%" + search + "%' OR [StreetAddress] LIKE '%" + search + "%' OR [City] LIKE '%" + search + "%' OR [State] LIKE '%" + search + "%'").ToList());
+        }
+
         // GET: Patients/Details/5
         public ActionResult Details(int? id)
         {

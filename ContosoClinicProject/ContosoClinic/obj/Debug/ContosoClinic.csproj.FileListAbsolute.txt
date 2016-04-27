@@ -1,74 +1,172 @@
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\obj\Debug\ContosoClinic.Migrations.Initial.resources
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\obj\Debug\ContosoClinic.Migrations.Visits.resources
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\obj\Debug\ContosoClinic.Migrations.Nullability.resources
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\obj\Debug\ContosoClinic.Migrations.Assignments.resources
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\obj\Debug\ContosoClinic.csproj.GenerateResource.Cache
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\roslyn\csc.exe
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\roslyn\vbc.exe
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\roslyn\VBCSCompiler.exe
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\ContosoClinic.dll.config
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\ContosoClinic.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\ContosoClinic.pdb
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Antlr3.Runtime.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\EntityFramework.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\EntityFramework.SqlServer.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.Owin.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.Owin.Security.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Newtonsoft.Json.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Owin.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\System.Web.Helpers.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\System.Web.Mvc.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\System.Web.Optimization.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\System.Web.Razor.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\System.Web.WebPages.Deployment.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\System.Web.WebPages.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\System.Web.WebPages.Razor.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\WebGrease.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\System.Web.Helpers.xml
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\System.Web.Mvc.xml
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\System.Web.Optimization.xml
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\System.Web.Razor.xml
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\System.Web.WebPages.xml
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\System.Web.WebPages.Deployment.xml
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\System.Web.WebPages.Razor.xml
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Antlr3.Runtime.pdb
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Newtonsoft.Json.xml
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\EntityFramework.xml
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\EntityFramework.SqlServer.xml
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.Owin.xml
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.Owin.Security.xml
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\obj\Debug\ContosoClinic.dll
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\obj\Debug\ContosoClinic.pdb
-C:\Users\jaszymas\Documents\Visual Studio 2015\Projects\ContosoClinic\ContosoClinic\obj\Debug\ContosoClinic.csprojResolveAssemblyReference.cache
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\csc.exe
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\vbc.exe
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\VBCSCompiler.exe
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\ContosoClinic.dll.config
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\ContosoClinic.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\ContosoClinic.pdb
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Antlr3.Runtime.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\EntityFramework.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\EntityFramework.SqlServer.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Newtonsoft.Json.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Owin.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.Helpers.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.Mvc.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.Optimization.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.Razor.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.WebPages.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.WebPages.Razor.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\WebGrease.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.Helpers.xml
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.Mvc.xml
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.Optimization.xml
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.Razor.xml
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.WebPages.xml
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.WebPages.Razor.xml
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Antlr3.Runtime.pdb
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Newtonsoft.Json.xml
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\EntityFramework.xml
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\EntityFramework.SqlServer.xml
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.xml
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.xml
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\obj\Debug\ContosoClinic.csprojResolveAssemblyReference.cache
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\obj\Debug\ContosoClinic.Migrations.Initial.resources
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\obj\Debug\ContosoClinic.Migrations.Visits.resources
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\obj\Debug\ContosoClinic.Migrations.Nullability.resources
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\obj\Debug\ContosoClinic.Migrations.Assignments.resources
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\obj\Debug\ContosoClinic.csproj.GenerateResource.Cache
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\obj\Debug\ContosoClinic.dll
+C:\Users\daredis\Documents\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\obj\Debug\ContosoClinic.pdb
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\csc.exe
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\System.Collections.Immutable.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\System.Reflection.Metadata.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\vbc.exe
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\VBCSCompiler.exe
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\roslyn\VBCSCompiler.exe.config
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\ContosoClinic.dll.config
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\ContosoClinic.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\ContosoClinic.pdb
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Antlr3.Runtime.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\EntityFramework.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\EntityFramework.SqlServer.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Hyak.Common.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.AspNet.Identity.Core.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Azure.Common.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Azure.Common.NetFramework.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Azure.KeyVault.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.Cookies.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.Facebook.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.Google.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.OAuth.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.Twitter.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.SqlServer.Management.AlwaysEncrypted.AzureKeyVaultProvider.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Threading.Tasks.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Web.Infrastructure.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Newtonsoft.Json.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Owin.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Net.Http.Extensions.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Net.Http.Primitives.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.Helpers.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.Mvc.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.Optimization.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.Razor.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.WebPages.Deployment.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.WebPages.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.WebPages.Razor.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\WebGrease.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Hyak.Common.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Azure.Common.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Azure.Common.NetFramework.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Azure.KeyVault.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.SqlServer.Management.AlwaysEncrypted.AzureKeyVaultProvider.pdb
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Threading.Tasks.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Net.Http.Extensions.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Net.Http.Primitives.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.Helpers.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.Mvc.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.Optimization.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.Razor.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.WebPages.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.WebPages.Deployment.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\System.Web.WebPages.Razor.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Antlr3.Runtime.pdb
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Newtonsoft.Json.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\EntityFramework.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\EntityFramework.SqlServer.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.AspNet.Identity.Core.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.Facebook.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.Cookies.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.OAuth.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.Google.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.Twitter.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\obj\Debug\ContosoClinic.csproj.App.config
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\obj\Debug\ContosoClinic.csprojResolveAssemblyReference.cache
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\obj\Debug\ContosoClinic.Migrations.Initial.resources
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\obj\Debug\ContosoClinic.Migrations.Visits.resources
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\obj\Debug\ContosoClinic.Migrations.Nullability.resources
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\obj\Debug\ContosoClinic.Migrations.Assignments.resources
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\obj\Debug\ContosoClinic.csproj.GenerateResource.Cache
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\obj\Debug\ContosoClinic.dll
+D:\GitHub\Contoso-Security-Demo\ContosoClinicProject\ContosoClinic\obj\Debug\ContosoClinic.pdb
