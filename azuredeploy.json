@@ -199,7 +199,7 @@
                 "name": "[variables('defaultAppServicePlanName')]",
                 "sku": "[variables('defaultAppServicePlanSku')]",
                 "workerSize": "[variables('defaultAppServicePlanWorkerSize')]",
-                "numberOfWorkers": 3
+                "numberOfWorkers": 1
             }
         },
         {
@@ -215,7 +215,10 @@
             },
             "properties": {
                 "name": "[variables('defaultWebAppName')]",
-                "serverFarmId": "[variables('defaultAppServicePlanName')]"
+                "serverFarmId": "[variables('defaultAppServicePlanName')]",
+				"siteConfig": {
+                   "AlwaysOn": true
+               }
             },
             "resources": [
                 {
