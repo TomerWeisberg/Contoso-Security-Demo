@@ -199,7 +199,7 @@
                 "name": "[variables('defaultAppServicePlanName')]",
                 "sku": "[variables('defaultAppServicePlanSku')]",
                 "workerSize": "[variables('defaultAppServicePlanWorkerSize')]",
-                "numberOfWorkers": 1
+                "numberOfWorkers": 3
             }
         },
         {
