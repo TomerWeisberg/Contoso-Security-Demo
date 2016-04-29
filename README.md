@@ -68,7 +68,7 @@ Click the Deploy to Azure Button and fill out the fields to deploy the demo to y
 	`Set-AzureRmKeyVaultAccessPolicy -VaultName "<your vault name> -ResourceGroupName "<your resource group>" -PermissionsToKeys create,get,wrapKey,unwrapKey,sign,verify -UserPrincipalName "<your Azure username>"`
 
 ####Enable Always Encrypted
-+ Connect to your deployed database using SSMS: [Instructions]()
++ Connect to your deployed database using SSMS: [TODO: Instructions]()
 + Encrypt Sensitive Data Columns using the Column Encryption Wizard 
 	- Right click on the **Patients** table in the **Clinic** database and select **Encrypt Columns...**
 	- The Column Encryption wizard will open. Click **Next**.
@@ -98,8 +98,8 @@ Click the Deploy to Azure Button and fill out the fields to deploy the demo to y
 Sign in using (Rachel@contoso.com/Password1!) or (alice@contoso.com/Password1!)
 
 ####Enable Row Level Security (RLS) 
-+ Connect to your deployed database using SSMS: [Instructions]()
-+ Open Enable-RLS.sql ( [Download it here]())
++ Connect to your deployed database using SSMS: [TODO: Instructions]()
++ Open Enable-RLS.sql ( [Find it here](Security%20Demo%20Queries/Enable-RLS.sql))
 + Execute the commands 
 + Observe the changes to the results returned on the /visits or /patients page
 
@@ -118,7 +118,7 @@ The predicate functions we created in Enable-RLS.sql identify users by the `User
 #### Enable Data Masking
 + Navigate to the /patients page
 + Connect to your deployed database using SSMS: [Instructions]()
-+ Open Enable-DDM.sql ([Download it here]()) 
++ Open Enable-DDM.sql ([Find it here](Security%20Demo%20Queries/Enable-DDM.sql)) 
 + Execute the commands
 + Observe the changes in results returned on the /visits page
 
