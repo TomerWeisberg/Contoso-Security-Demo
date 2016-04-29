@@ -13,7 +13,7 @@
 
 ##Getting Started
 ###Generate Application ID and Secret
-In order to allow your client application to access and use the keys in your Azure Key Vault, we need to provision a Client ID and Secret that your app will use to authenticate.&nbsp; To do this, head to the [Azure Portal] (https://manage.windowsazure.com/) and log in.
+In order to allow your client application to access and use the keys in your Azure Key Vault, we need to provision a Client ID and Secret that your app will use to authenticate.&nbsp; To do this, head to the [Classic Azure Portal] (https://manage.windowsazure.com/) and log in.
 
 Select &ldquo;Active Directory&rdquo; in the left sidebar, choose the Active Directory you wish to use (or create a new one if it doesn&rsquo;t exist), then click &ldquo;Applications&rdquo;.
 
