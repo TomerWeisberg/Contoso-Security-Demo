@@ -33,7 +33,21 @@ Click the Deploy to Azure Button and fill out the fields to deploy the demo to y
 
 ## Azure SQL Security Features 
 ### Auditing & Threat Detection
-//TODO
+#### Set up and Test Auditing & Threat Detection 
+
++ Auditing and Threat Detection should have been turned on during the deployment
++ You can verify this in the [Azure Portal](portal.azure.com) by viewing the Database Settings (under **Auditing & Threat Detection**)
+	- Auditing should be 'ON'
+	- Threat Detection should be 'ON'
+	- For shared accounts, unselect the **Email Service and Co-Administrators** box and place your own email address in the box. 
+		* This will avoid sending an alert email to your Service Admins and Subscription Co-Admins
++ Execute a SQL injection to show Threat Detection on the /patients page
+	- We left the box vulnerable on purpose, but you ought to take precautions to prevent attacks on your apps.
+	- TODO: provide an example SQL injection
++ Check your inbox 
+
+#### How did that work? 
+
 ### Always Encrypted 
 ####Grant Yourself Create Key Priveleges to your Azure Key Vault
 + Open Powershell
@@ -74,6 +88,7 @@ Click the Deploy to Azure Button and fill out the fields to deploy the demo to y
 	
 	`Set-AzureRmKeyVaultAccessPolicy -VaultName "<your vault name>" -ResourceGroupName "<your resource group>" -ServicePrincipalName "<your client ID>" -PermissionsToKeys get,wrapKey,unwrapKey,sign,verify` 
 	- Refresh the page. Notice you didn't need to make any changes to the application. 
+	
 ####How did that work? 
 //TODO
 
