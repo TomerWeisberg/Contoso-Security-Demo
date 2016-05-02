@@ -36,7 +36,7 @@
                 "Central US",
                 "North Europe"
             ],
-            "defaultValue": "West US",
+            "defaultValue": "[resourceGroup().location]",
             "metadata": {
                 "description": "The Azure region in which these resources will be deployed."
             }
@@ -208,7 +208,9 @@
             "type": "Microsoft.Web/sites",
             "location": "[parameters('location')]",
             "dependsOn": [
-                "[concat('Microsoft.Web/serverfarms/', variables('defaultAppServicePlanName'))]"
+                "[concat('Microsoft.Web/serverfarms/', variables('defaultAppServicePlanName'))]",
+				"[concat('Microsoft.Sql/servers/', variables('defaultSqlServerName'))]",
+                "[concat('Microsoft.Sql/servers/', variables('defaultSqlServerName'), '/databases/', variables('defaultSqlDatabaseName'))]"
             ],
             "tags": {
                 "[concat('hidden-related:', resourceGroup().id, '/providers/Microsoft.Web/serverfarms/', variables('defaultAppServicePlanName'))]": "empty"
