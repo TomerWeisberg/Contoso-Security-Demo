@@ -41,7 +41,12 @@
                 "description": "The Azure region in which these resources will be deployed."
             }
         },
-
+		"userObjectID": {
+			"type": "string",
+			"metadata": { 
+			"description": "The user's ID within Azure Active Directory- necessary for AKV integration. Get via powershell command Get-AzureRmADUser " 
+			}
+		},
 		"ActiveDirectoryAppID": {
 			"type": "string",
 			"metadata": { 
@@ -84,7 +89,11 @@
 		"skuName": "Standard",
 		"enableVaultForVolumeEncryption": false,
 		"enableVaultForDeployment": false,
-		"enableVaultforTemplateDeployment": false
+		"enableVaultforTemplateDeployment": false,
+		"appKeysPermissions": "(get, wrapkey, unwrapkey, sign, verify)",
+		"appSecretPermissions": "all",
+		"userKeysPermissions": "(create, get, wrapkey, unwrapkey, sign, verify)", 
+		"userSecretPermissions": "all"
     },
     "resources": [
         {
@@ -183,6 +192,22 @@
 			"enabledForVolumeEncryption": "[variables('enableVaultForVolumeEncryption')]",
 			"tenantId": "[parameters('tenantId')]",
 			"accessPolicies": [
+			  {
+				"tenantId": "[parameters('tenantId')]",
+				"objectId": "[parameters('ActiveDirectoryAppID')]",
+				"permissions":{
+					"keys": "[variables('appKeysPermissions')]",
+					"secrets" : "[variables('appSecretPermissions')]"			  
+				}
+			  },
+			  {
+				"tenantId": "[parameters('tenantId')]",
+				"objectId": "[parameters('userObjectID')]",
+				"permissions":{
+					"keys": "[variables('userKeysPermissions')]",
+					"secrets" : "[variables('userSecretPermissions')]"			  
+					}
+			  }
 			],
 			"sku": {
 			  "name": "[variables('skuName')]",
