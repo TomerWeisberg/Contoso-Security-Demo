@@ -1,15 +1,28 @@
 #Contoso Security Demo
 ##Contents
+0. [Estimated Cost of Deployed Resources] (#estimated-cost-of-deployed-resources)
 1. [Getting Started] (#getting-started) 
 	* Generate Application ID and Secret
 	* Retrieve TenantID
 	* Deploy to Azure
-	* Download Security Demo Queries
+	* TODO: Download Security Demo Queries
 2. [Azure SQL Security Features] (#azure-sql-security-features) 
 	* Auditing & Threat Detection
 	* Always Encrypted 
 	* Row Level Security 
 	* Data Masking
+
+##Estimated Cost of Deployed Resources
+The following table is an estimation of the cost of deploying the Demo for one month as of 5/3/2016. 
+Your observed cost may vary. 
+
+ Resource | Cost | Breakdown  
+ --- | --- | ---  
+[S1 SQL Database ](https://azure.microsoft.com/en-us/pricing/details/sql-database/) |  $30  | ~$0.04/DBhr
+[B1 App Service Plan] (https://azure.microsoft.com/en-us/pricing/details/app-service/) | $55.80  | See link for details
+[Storage Plan] (https://azure.microsoft.com/en-us/pricing/details/storage/) | ~0 | See link for details 
+[Azure Key Vault] (https://azure.microsoft.com/en-us/pricing/details/key-vault/)| ~0 | $0.03/10k operations 
+**Monthly Total** | ~**$85.80** | 
 
 ##Getting Started
 ###Generate Application ID and Secret
