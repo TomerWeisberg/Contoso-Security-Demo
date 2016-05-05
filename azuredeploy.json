@@ -4,7 +4,7 @@
     "parameters": {
 		"siteName": {
 		"type": "string",
-		"defaultValue": "[concat('contosoapp', uniqueString(resourceGroup().id))]"
+		"defaultValue": "DRTEst"
 		},
         "administratorLogin": {
             "type": "string",
