@@ -1,4 +1,4 @@
-#Contoso Security Demo
+#Contoso Demo Application - Demonstration of SQL Security Features
 ##Contents
 0. [Estimated Cost of Deployed Resources] (#estimated-cost-of-deployed-resources)
 1. [Getting Started] (#getting-started) 
@@ -11,6 +11,7 @@
 	* Always Encrypted 
 	* Row Level Security 
 	* Data Masking
+3.  TODO: [Application Notes] (#application-notes) 
 
 ##Estimated Cost of Deployed Resources
 The following table is an estimation of the cost of deploying the Demo for one month as of 5/3/2016. 
