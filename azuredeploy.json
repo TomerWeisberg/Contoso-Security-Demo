@@ -4,7 +4,10 @@
     "parameters": {
 		"siteName": {
 		"type": "string",
-		"defaultValue": "DRTEst"
+		"defaultValue": "DRTEst",
+		"metadata": {
+			"description": "Website Name"
+			}
 		},
         "administratorLogin": {
             "type": "string",
